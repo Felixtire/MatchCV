@@ -34,3 +34,4 @@ build/
 # Arquivos auxiliares do Spring Initializr
 # Ignorar todos os arquivos HELP.md em qualquer pasta
 **/HELP.md
+/mvnw,cmd
